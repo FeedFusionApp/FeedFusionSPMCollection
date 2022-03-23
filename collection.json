@@ -3,6 +3,9 @@
     "name": "FeedFusion Modules",
     "overview": "A collection of FeedFusion Modules",
     "keywords": [],
+    "author": {
+        "name": "Noah Kamara"
+    },
     "packages": [
         {
             "readmeURL": "https://raw.githubusercontent.com/FeedFusionApp/FeedFusionLogging/main/README.mdd",
