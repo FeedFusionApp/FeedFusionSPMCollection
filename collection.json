@@ -1,19 +1,22 @@
 {
     "formatVersion": "1.0",
-    "name": "FeedFusion Modules",
-    "overview": "A collection of FeedFusion Modules",
-    "keywords": [],
-    "author": {
+    "generatedAt": "2022-03-23T13:33:38Z",
+    "generatedBy": {
         "name": "Noah Kamara"
     },
+    "keywords": [
+        "FeedFusion"
+    ],
+    "name": "FeedFusion Modules",
+    "overview": "A collection of FeedFusion Modules",
     "packages": [
         {
-            "readmeURL": "https://raw.githubusercontent.com/FeedFusionApp/FeedFusionLogging/main/README.mdd",
+            "readmeURL": "https://raw.githubusercontent.com/FeedFusionApp/FeedFusionLogging/main/README.md",
             "summary": "FeedFusion Logging Module",
             "url": "https://github.com/FeedFusionApp/FeedFusionLogging.git"
         },
         {
-            "readmeURL": "https://raw.githubusercontent.com/FeedFusionApp/FeedFusionParsing/main/README.mdd",
+            "readmeURL": "https://raw.githubusercontent.com/FeedFusionApp/FeedFusionParsing/main/README.md",
             "summary": "FeedFusion Feed Parsing Module",
             "url": "https://github.com/FeedFusionApp/FeedFusionParsing.git"
         }
