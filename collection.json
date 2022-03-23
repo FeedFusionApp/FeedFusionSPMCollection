@@ -3,7 +3,8 @@
     "name": "FeedFusion Modules",
     "overview": "A collection of FeedFusion Modules",
     "keywords": [],
-    "packages": [{
+    "packages": [
+        {
             "readmeURL": "https://raw.githubusercontent.com/FeedFusionApp/FeedFusionLogging/main/README.mdd",
             "summary": "FeedFusion Logging Module",
             "url": "https://github.com/FeedFusionApp/FeedFusionLogging.git"
