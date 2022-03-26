@@ -1,1 +1,104 @@
-{"formatVersion":"1.0","generatedAt":"2022-03-23T15:38:02Z","name":"FeedFusion Modules","overview":"A collection of FeedFusion Modules","packages":[{"keywords":[],"readmeURL":"https://raw.githubusercontent.com/FeedFusionApp/FeedFusionLogging/main/README.md","summary":"FeedFusion Logging Module","url":"https://github.com/FeedFusionApp/FeedFusionLogging.git","versions":[{"defaultToolsVersion":"5.6.0","manifests":{"5.6.0":{"minimumPlatformVersions":[{"name":"ios","version":"10.0"},{"name":"macos","version":"10.12"}],"packageName":"FeedFusionLogging","products":[{"name":"Logger","targets":["Logger"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Logger","name":"Logger"}],"toolsVersion":"5.6.0"}},"summary":"","version":"v1.0.0"}]},{"summary":"FeedFusion Feed Parsing Module","url":"https://github.com/FeedFusionApp/FeedFusionParsing.git","versions":[{"defaultToolsVersion":"5.5.0","manifests":{"5.5.0":{"minimumPlatformVersions":[{"name":"macos","version":"12.0"},{"name":"ios","version":"15.0"}],"packageName":"FeedFusionParsing","products":[{"name":"Parsing","targets":["Parsing"],"type":{"library":["automatic"]}}],"targets":[{"moduleName":"Parsing","name":"Parsing"}],"toolsVersion":"5.5.0"}},"summary":"","version":"v1.0.0"}]}]}
+{
+    "formatVersion": "1.0",
+    "generatedAt": "2022-03-26T18:05:49Z",
+    "name": "FeedFusion Modules",
+    "overview": "A collection of FeedFusion Modules",
+    "packages": [
+        {
+            "keywords": [],
+            "readmeURL": "https://raw.githubusercontent.com/FeedFusionApp/FeedFusionLogging/main/README.md",
+            "summary": "FeedFusion Logging Module",
+            "url": "https://github.com/FeedFusionApp/FeedFusionLogging.git",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.6",
+                    "manifests": {
+                        "5.6": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "10.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "10.12"
+                                }
+                            ],
+                            "packageName": "FeedFusionLogging",
+                            "products": [
+                                {
+                                    "name": "Logger",
+                                    "targets": [
+                                        "Logger"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "Logger",
+                                    "name": "Logger"
+                                }
+                            ],
+                            "toolsVersion": "5.6"
+                        }
+                    },
+                    "summary": "",
+                    "version": "v1.0.0"
+                }
+            ]
+        },
+        {
+            "keywords": [],
+            "readmeURL": "https://raw.githubusercontent.com/FeedFusionApp/FeedFusionFullText/main/README.md",
+            "summary": "FeedFusion Full Text Parsing Module",
+            "url": "https://github.com/FeedFusionApp/FeedFusionFullText.git",
+            "versions": [
+                {
+                    "defaultToolsVersion": "5.5",
+                    "manifests": {
+                        "5.5": {
+                            "minimumPlatformVersions": [
+                                {
+                                    "name": "ios",
+                                    "version": "15.0"
+                                },
+                                {
+                                    "name": "macos",
+                                    "version": "12.0"
+                                }
+                            ],
+                            "packageName": "FeedFusionFullText",
+                            "products": [
+                                {
+                                    "name": "FullText",
+                                    "targets": [
+                                        "FullText"
+                                    ],
+                                    "type": {
+                                        "library": [
+                                            "automatic"
+                                        ]
+                                    }
+                                }
+                            ],
+                            "targets": [
+                                {
+                                    "moduleName": "FullText",
+                                    "name": "FullText"
+                                }
+                            ],
+                            "toolsVersion": "5.5"
+                        }
+                    },
+                    "summary": "",
+                    "version": "v1.0.0"
+                }
+            ]
+        }
+    ]
+}
