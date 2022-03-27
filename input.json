@@ -3,14 +3,21 @@
     "generatedAt": "2022-03-22T21:44:31Z",
     "name": "FeedFusion Modules",
     "overview": "A collection of FeedFusion Modules",
-    "packages": [
-        {
+    "packages": [{
             "summary": "FeedFusion Logging Module",
             "url": "https://github.com/FeedFusionApp/FeedFusionLogging.git"
         },
         {
             "summary": "FeedFusion Full Text Parsing Module",
             "url": "https://github.com/FeedFusionApp/FeedFusionFullText.git"
+        },
+        {
+            "summary": "FeedFusion Filtering Module",
+            "url": "https://github.com/FeedFusionApp/FeedFusionFiltering.git"
+        },
+        {
+            "summary": "FeedFusion Feed Parsing Module",
+            "url": "https://github.com/FeedFusionApp/FeedFusionParsing.git"
         }
     ]
 }
